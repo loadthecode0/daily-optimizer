@@ -1,0 +1,6 @@
+openmeteo-requests
+requests-cache 
+retry-requests 
+numpy 
+pandas
+Flask==2.2.2
