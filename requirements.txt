@@ -5,3 +5,4 @@ numpy
 pandas
 Flask==2.1.0
 Werkzeug==2.1.0
+requests
